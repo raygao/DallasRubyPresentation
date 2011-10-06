@@ -1,0 +1,7 @@
+---
+client_id: {consumer_key}
+client_secret: {consumer_secret}
+username: {email_addres}
+password: {password & security token}
+debugging: true
+
